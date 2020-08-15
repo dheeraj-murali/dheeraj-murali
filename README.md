@@ -2,7 +2,7 @@
 ![dino](https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/dino.gif)
 
 <h1 align="center">
-Hey, there!🤘🏿 
+Hi, there!👋🏿
 </h1>
 
 <p align="center">
