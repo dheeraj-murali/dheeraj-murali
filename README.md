@@ -8,6 +8,9 @@ Nice to meet you!
 I'm a web designer and front-end developer.<br/> who loves crafting fast and easy to use web applications.
 </h5>
 
+<br/>
+<br/>
+
 <p align="center">
   <a href="https://github.com/dheeraj-murali">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height='30'/>
