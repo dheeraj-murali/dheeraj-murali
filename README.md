@@ -1,6 +1,6 @@
 <p align="center">
 
-![banner](./banner.jpeg)
+![banner](https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/banner.jpeg)
 
 ### Hello world! 👋
 
