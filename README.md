@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/bannerr.png" width='100%'/>
 
-<h3 align="center">
+<h2 align="center">
 Nice to meet you!
-</h3>
+</h2>
 
-<h5 align="center">
+<p align="center">
 I'm a web designer and front-end developer.<br/> who loves crafting fast and easy to use web applications.
-</h5>
+</p>
 
 <br/>
 <br/>
