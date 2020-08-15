@@ -1,5 +1,6 @@
-<!---![banner](https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/banner.jpeg)--->
-![dino](https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/dino.gif)
+-![banner](https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/banner.jpg)-
+
+<!-- ![dino](https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/dino.gif) -->
 
 <h1 align="center">
 Hi, there!👋🏿
