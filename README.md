@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello world! 👋
 
 - 🔭 I’m currently working on an online learning portal
 - 🌱 I’m currently learning reactJS
