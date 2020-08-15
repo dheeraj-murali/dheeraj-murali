@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/bannerr.png" width='100%'/>
+<img src="https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/banner.png" width='100%'/>
 
 <h2 align="center">
 Nice to meet you!
