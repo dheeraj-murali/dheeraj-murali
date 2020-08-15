@@ -6,7 +6,7 @@ Hey, there! 👋
 </h1>
 
 <p align="center">
-Nice to meet you! I'm a web designer and front-end developer.
+Nice to meet you! I'm a web designer and front-end developer. who loves crafting fast and easy to use web applications.
 </p>
 
 <p align="center">
