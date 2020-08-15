@@ -1,5 +1,4 @@
-<img src="https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/banner.jpg" alt="banner" width='100%'/>
-<!-- ![dino](https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/dino.gif) -->
+<img src="https://raw.githubusercontent.com/dheeraj-murali/dheeraj-murali/master/bannner.png" width='100%'/>
 
 <h1 align="center">
 Hi, there!👋🏿
