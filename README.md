@@ -5,7 +5,9 @@ Nice to meet you!
 </h2>
 
 <p align="center">
-I'm a web designer and front-end developer.<br/> who loves crafting fast and easy to use web applications.
+  <a href="https://dheerajmurali.com">
+    I'm a web designer and front-end developer.<br/> who loves crafting fast and easy to use web applications.
+  </a>
 </p>
 
 <br/>
